@@ -1,4 +1,8 @@
 <?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 include 'koneksi.php';
 session_start();
 
@@ -24,3 +28,18 @@ if (isset($_POST['login'])) {
     }
 }
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <h2>Login</h2>
+    <form method="post" action="">
+        <input type="text" name="username" placeholder="Username" required><br><br>
+        <input type="password" name="password" placeholder="Password" required><br><br>
+        <button type="submit" name="login">Login</button>
+    </form>
+</body>
+</html>
