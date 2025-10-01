@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Aplikasi Kelompok-2</title>
+    <title>Pisangkuy</title>
 </head>
 <body>
-    <h1>Selamat Datang di Aplikasi Kelompok-2</h1>
+    <h1>Selamat Datang di Pisangkuy</h1>
     <nav>
         <a href="index.php?page=home">Home</a> | 
         <a href="index.php?page=produk">Produk</a> | 

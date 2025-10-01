@@ -1,7 +1,9 @@
 <div>
     <h2>Halaman Home</h2>
-    <p>Selamat datang di website toko online sederhana kita.</p>
-    <p>Silakan gunakan menu di atas untuk navigasi.</p>
+    <p>Selamat datang di Pisangkuy, kalian bisa beli berbagai makanan, minuman,
+        bahkan ada beragam Merchandise 
+    </p>
+    <p>Ada menu baru lohh</p>
 </div>
 
 </body>
